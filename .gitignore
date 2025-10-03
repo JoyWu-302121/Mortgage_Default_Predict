@@ -1,0 +1,8 @@
+Data/raw/
+*.csv
+*.parquet
+*.xlsx
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.env
